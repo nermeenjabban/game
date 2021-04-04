@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(215,0,107);
+}
+#one{
+    background-color: rgb(45,45,45);
+    width: 500px;
+    height: 500px;
+    margin-top: 70px;
+    margin-left: 250px;
+}
+.p1 {
+    color: rgb(215,0,107);
+    padding-top: 50px;
+    padding-left: 190px;
+    font-size: 30px;
+}
+.num{
+    color:  rgb(215,0,107);
+    padding-top: 10px;
+    padding-left: 220px;
+    font-size: 30px;
+}
+.curr{
+    height: 80px;
+    width: 150px;
+    background-color:rgb(215,0,107);
+    position: absolute;
+    top: 60%;
+    left: 30%;
+}
+.re{
+    color: white;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+.res{
+    color: white;
+    padding-left:64px ;
+    padding-top: 10px;
+    font-size: 20px;
+}
